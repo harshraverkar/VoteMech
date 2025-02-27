@@ -1,0 +1,5 @@
+GAUTAM - CGPA: 8.4, Attendance:76%, SPORT: CRICKET, TRAIT: Good Listener
+Harsh - CGPA: 8.5, Attendance:79%,  SPORT: VOLLEYBALL, TRAIT: Excellent Leadership Skills
+Aniket - CGPA: 8.6, Attendance:75.83%, SPORT: CHESS, TRAIT: Excellent Organizational Skills
+Anish - CGPA: 8.7, Attendance:62%, SPORT: CRICKET, TRAIT: Excellent Sense of Humour 
+-------------------------------MALA MAHIT NAHI!------------------------------------
